@@ -21,7 +21,8 @@ This project predicts whether a student will PASS or FAIL using Logistic Regress
 - result
 ## Model Accuracy
 
-Accuracy achieved by Logistic Regression: 100%
+Accuracy achieved by Logistic Regression: 100%(Accuracy.png)
+
 
 ## Prediction Results
 
