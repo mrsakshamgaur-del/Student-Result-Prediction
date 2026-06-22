@@ -19,3 +19,10 @@ This project predicts whether a student will PASS or FAIL using Logistic Regress
 - attendance
 - internal_marks
 - result
+## Model Accuracy
+
+Accuracy achieved by Logistic Regression: 100%
+
+## Prediction Results
+
+![Prediction Results](output.png)
